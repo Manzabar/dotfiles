@@ -15,4 +15,4 @@ alias timestamp="date +%Y-%m-%d\ %H:%M:%S%"
 
 # network-related
 alias lynx="lynx -accept_all_cookies -vikeys"
-alias myip="wget -q -O - icanhazip.com"
+alias myip="wget -qO - http://icanhazip.com"
