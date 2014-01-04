@@ -11,7 +11,7 @@ alias grep="grep -i --color=auto"
 alias grepl="grep --color=always | less -R"
 
 # misc
-alias timestamp="date +%Y-%m-%d\ %H:%M:%S%"
+alias timestamp="date +%Y-%m-%d\ %H:%M:%S"
 
 # network-related
 alias lynx="lynx -accept_all_cookies -vikeys"
