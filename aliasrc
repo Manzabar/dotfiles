@@ -2,9 +2,11 @@
 alias aptitude="sudo aptitude"
 alias shutdown="sudo shutdown"
 alias svim="sudo vim"
+alias view="vim -p -R"
 
 # filesystem
 alias ll="ls --color=auto -lhA"
+alias df="df -h"
 
 # grep
 alias grep="grep -i --color=auto"
