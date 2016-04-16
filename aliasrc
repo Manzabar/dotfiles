@@ -15,6 +15,7 @@ alias grepl="grep --color=always | less -R"
 
 # misc
 alias timestamp="date +%Y-%m-%d\ %H:%M:%S"
+alias weather="curl wttr.in"
 
 # network-related
 alias lynx="lynx -accept_all_cookies -vikeys"
